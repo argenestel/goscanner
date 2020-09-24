@@ -1,0 +1,2 @@
+# goscanner
+A simple scanner
